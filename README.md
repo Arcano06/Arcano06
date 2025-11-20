@@ -8,10 +8,11 @@
 
 ## Sobre mim
 
-- 🎯 Focado em criar soluções funcionais e escaláveis
-- 💼 Atualmente trabalhando em projetos pessoais e acadêmicos
-- ⚙️ Conhecimentos: `Python`, `C`, `SQL`
-- ⚡ Curiosidades: Sou Jogador profissional de Esports, Barista, Poeta e Especialista em consórcio 
+-  Focado em criar soluções funcionais e escaláveis
+-  Atualmente trabalhando em projetos pessoais e acadêmicos
+-  Conhecimentos: `Python`, `C`, `SQL`
+-  Curiosidades: Sou Jogador profissional de Esports, Barista, Poeta e Especialista em consórcio
+-  Projeto Recente SmartCall https://github.com/SmartCall-PIM
 
 ---
 
